@@ -1,10 +1,11 @@
-# sfml-vscode-boilerplate
+# Cosmic Construction
 
-A cross-platform [SFML](https://www.sfml-dev.org) 2.5.1 & C++17 build environment for [Visual Studio Code](https://code.visualstudio.com/)
+A-Level coding project written in C++ with SFML.
+this is a full 2D factory builder game with infinite terrain generation and multiple planets.
+It features many machines with recipes to refine and extract different materials.
+Conveyors, tunnels, splitters and filters can be used to transport resources between machines, or store them in silos.
 
-> Note: This project has been superseded by: [https://github.com/chalet-org/chalet-example-sfml](https://github.com/chalet-org/chalet-example-sfml), utilizing a new build system called [Chalet](https://www.chalet-work.space/). Please give that a try instead!
-
----
+# Compiling information
 
 ## Features
 
